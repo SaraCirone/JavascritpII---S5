@@ -25,5 +25,6 @@ btn.addEventListener('click', () => {
 
 
         document.getElementById('totale').innerHTML += `<p>Ti rimangono <b>${budget}€</b></p>`;
+    }
     
-});
+})
